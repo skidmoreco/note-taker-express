@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # note-taker-express
-As an assignment for Ohio State Univeristy Bootcamp. We were required to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+As an assignment for Ohio State University Bootcamp. We were required to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 ## Live Site:
 --- 
 [Github pages](https://github.com/skidmoreco/note-taker-express)
